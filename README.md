@@ -1,5 +1,5 @@
 ## React ToDo List App
-A Simple yet Creative ToDo List app MAde using ReactJS
+A Simple yet Creative ToDo List app Made using ReactJS
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
